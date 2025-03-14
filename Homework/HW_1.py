@@ -1,8 +1,3 @@
-"""
-Modified on Feb 20 2020
-@author: lbg@dongseo.ac.kr
-"""
-
 import pygame
 from sys import exit
 import numpy as np
